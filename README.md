@@ -1,3 +1,4 @@
+quick edit
 About: Getting Flask to show me interesting matplot pngs
 
 ## By their powers *combine*!
